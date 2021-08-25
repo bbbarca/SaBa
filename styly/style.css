@@ -1,7 +1,7 @@
 .banner {
     height: 10rem;
-    background: rgb(138, 231, 200);
-    color: rgb(1, 1, 100);
+    background: rgb(59, 4, 104);
+    color: rgb(236, 236, 253);
     font-size: 65px;
     justify-content: center;
     flex-direction: column;
@@ -10,4 +10,9 @@
 }
 h2,h3,h4 {
     font-weight: normal;
+}
+.banner2 {
+    height: 10rem;
+    background: rgb(59, 4, 104);
+    color: rgb(236, 236, 253);
 }
