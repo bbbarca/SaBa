@@ -61,3 +61,14 @@ h2,h3,h4 {
     display: flex;
     align-items: center;
 }
+.bsirena {
+    height: 8rem;
+    background: rgb(207, 70, 173);
+    color: rgb(236, 236, 253);
+    font-size: 65px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    
+}
