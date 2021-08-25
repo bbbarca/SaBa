@@ -12,7 +12,12 @@ h2,h3,h4 {
     font-weight: normal;
 }
 .banner2 {
-    height: 10rem;
-    background: rgb(59, 4, 104);
+    height: 2rem;
+    background: rgb(121, 0, 115);
+    color: rgb(236, 236, 253);
+}
+.banner3 {
+    height: 2rem;
+    background: rgb(235, 84, 210);
     color: rgb(236, 236, 253);
 }
