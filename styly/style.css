@@ -21,3 +21,13 @@ h2,h3,h4 {
     background: rgb(235, 84, 210);
     color: rgb(236, 236, 253);
 }
+.banner4 {
+    height: 2rem;
+    background: rgb(6, 134, 143);
+    color: rgb(236, 236, 253); 
+}
+.banner5 {
+    height: 2rem;
+    background: rgb(8, 86, 92);
+    color: rgb(236, 236, 253); 
+}
