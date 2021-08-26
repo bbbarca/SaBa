@@ -137,3 +137,11 @@ h2,h3,h4 {
     display: flex;
     margin: 7px;
 }
+.obraz4 img {
+    height: 250px;
+    margin: 5px;
+}
+.obal4 {
+    display: flex;
+    margin: 7px;
+}
