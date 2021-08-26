@@ -124,6 +124,7 @@ h2,h3,h4 {
 .sirenaobrazky {
     display: flex;
     margin: 5px;
+    flex-wrap: wrap;
 }
 .pic img {
     height: 250px;
