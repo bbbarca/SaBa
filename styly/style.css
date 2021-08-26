@@ -158,5 +158,10 @@ h2,h3,h4 {
     margin: 5px;
 }
 .ob img {
-    hei
+    height:250px ;
+    margin: 7px;
+}
+.obal10 {
+    display: flex;
+    margin: 7px;
 }
