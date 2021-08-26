@@ -152,4 +152,7 @@ h2,h3,h4 {
 .obal2 {
     display: flex;
     margin: 7px;
+.pic2 img {
+    height: 250px;
+    margin: 5px;
 }
