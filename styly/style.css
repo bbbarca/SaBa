@@ -115,7 +115,7 @@ h2,h3,h4 {
 }
 .obraz img {
     height: 250px;
-
+    margin: 5px;
 }
 .obal {
     display: flex;
