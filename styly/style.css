@@ -165,3 +165,10 @@ h2,h3,h4 {
     display: flex;
     margin: 7px;
 }
+
+.info {
+    min-width: 40vw;
+}
+.pic {
+    max-width: 55vw;
+}
