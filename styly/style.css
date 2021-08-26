@@ -102,3 +102,14 @@ h2,h3,h4 {
     align-items: center;
 
 }
+.protivnici { 
+    height: 8rem;
+    background: rgb(50, 164, 240);
+    color: white;
+    font-size: 65px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+}
